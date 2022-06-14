@@ -1,5 +1,4 @@
 # Integrals
 
-Repository for creating calculators of integrals, this is mainly for me to get familiar
-with integration as well as the computation of integrals using different 
-programming languages(mainly C#, Java, and Python)
+Repository for creating calculators of integrals, this is just to play around programming
+integrals potentially using different programming languages(C#, Java, maybe C++).
